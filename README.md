@@ -25,11 +25,7 @@ I use this profile README to share what I'm working on, the tools I use, and how
 
 ## About
 
-- 🔭 I’m currently working on: _(add your current project or focus)_
-- 🌱 I’m currently learning: _(list technologies or topics you're learning)_
-- 👯 I’m looking to collaborate on: _(types of projects or technologies)_
-- 💬 Ask me about: programming, open source, and problem-solving
-
+-Full Stack Developer in progress — building with React, Node.js, JavaScript & MongoDB.
 ---
 
 ## Skills
@@ -63,8 +59,8 @@ Add a short sentence describing what problems you like solving and the kind of c
 
 ## How to reach me
 
-- **Email:** your.email@example.com
-- **LinkedIn:** `https://www.linkedin.com/in/yourprofile`
+- **Email:** jougendersingh@gmail.com
+- **LinkedIn:** `https://linkedin.com/in/jogindra-singh-rajawat-9377a9315`
 - **Twitter:** `https://twitter.com/yourhandle` (optional)
 
 Feel free to open an issue or a PR on any repository if you'd like to collaborate.
