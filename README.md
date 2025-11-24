@@ -60,7 +60,7 @@ Add a short sentence describing what problems you like solving and the kind of c
 ## How to reach me
 
 - **Email:** jougendersingh@gmail.com
-- **LinkedIn:** `https://linkedin.com/in/jogindra-singh-rajawat-9377a9315`
+- **LinkedIn:** https://www.linkedin.com/in/jogindra-singh-rajawat-a665f96396?utm_source=share_via&utm_content=profile&utm_medium=member_android`
 - **Twitter:** `https://twitter.com/yourhandle` (optional)
 
 Feel free to open an issue or a PR on any repository if you'd like to collaborate.
